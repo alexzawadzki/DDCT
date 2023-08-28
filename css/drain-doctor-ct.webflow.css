@@ -2362,7 +2362,7 @@ figcaption {
     margin-right: 0;
     padding-left: 10px;
     padding-right: 10px;
-    position: fixed;
+    position: absolute;
     right: 62px;
   }
 
